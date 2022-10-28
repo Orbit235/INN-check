@@ -1,0 +1,44 @@
+body
+{
+   background-color: rgb(106, 93, 216); 
+}
+table
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+background-color: rgb(180, 200, 231);
+font-size: 25px;
+}
+input
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    width: fit-content;
+}
+h1
+{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 40px;
+}
+h2
+{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 40px;
+}
+h3
+{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 40px;
+}
+button
+{
+    color: brown;
+    font-size: 25px;
+}
